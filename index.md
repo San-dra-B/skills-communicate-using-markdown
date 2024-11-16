@@ -8,3 +8,6 @@ header 2
 ``` javascript
 var myVar = "Hello, Everyone";
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
